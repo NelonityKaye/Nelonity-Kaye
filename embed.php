@@ -17,10 +17,10 @@
             
             "embeds" => [
                 [
-                    "title" => "Название ембеда",
+                    "title" => "Anziar|RP",
                     "description" => $content,
                     "timestamp" => $timestamp,
-                    "color" => hexdec( "ff5e40" ),
+                    "color" => hexdec( "a0a0a0" ),
         
                 ]
             ]
