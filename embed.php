@@ -1,7 +1,7 @@
 <?php
     $content = isset($_POST['content']) ? $_POST['content'] : '';
     $username = isset($_POST['username']) ? $_POST['username'] : 'Logs bot';
-    $url = isset($_POST['url']) ? $_POST['url'] : 'https://raw.githubusercontent.com/NelonityKaye/Nelonity-Kaye/main/embed.php';
+    $url = isset($_POST['url']) ? $_POST['url'] : 'https://github.com/NelonityKaye/Nelonity-Kaye/blob/main/embed.php';
     $password = isset($_POST['password']) ? $_POST['password'] : '';
     
     if ($password == 'pass')
